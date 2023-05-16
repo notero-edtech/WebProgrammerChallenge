@@ -1,0 +1,22 @@
+version: '3'
+
+services:
+    adminer:
+        depends_on:
+            - db
+        image: adminer
+        container_name: hendrix_adminer
+        restart: always
+        ports:
+            - 8080:8080
+
+    db:
+        image: mysql:8.0.23
+        container_name: hendrix_db
+        environment:
+            - MYSQL_ROOT_PASSWORD=hendrix_dev_root
+            - MYSQL_DATABASE=hendrix_dev
+        volumes:
+            - ./.hendrix/db:/var/lib/mysql
+        ports:
+            - 3306:3306
