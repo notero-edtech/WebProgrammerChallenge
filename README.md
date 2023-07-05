@@ -1,5 +1,5 @@
 # WebProgramerChallenge
-This is the website testing for a Web Developer position at Mutex Team. The test duration is 5 days starting from the day you received it. You will be using Visual Studio Code with Node.js and TypeScript for development.
+This is the website testing for a Web Developer position at Notero Team. The test duration is 5 days starting from the day you received it. You will be using Visual Studio Code with Node.js and TypeScript for development.
 
 Please read the following instructions carefully before you begin
 
@@ -10,7 +10,7 @@ Please read the following instructions carefully before you begin
 - Write clean, well-structured code that is easy to read and maintain.
 - Provide clear explanations and comments within the code to ensure understanding for others who may read or review the code.
 - Test and run the program to ensure correctness and performance of the website.
-- Once you have completed the testing, please submit the code and documentation to the Mutex team through a Pull Request using the Forking Workflow.
+- Once you have completed the testing, please submit the code and documentation to the Notero team through a Pull Request using the Forking Workflow.
 
 If you have any additional questions or require further assistance during the testing process, please do not hesitate to ask. Good luck with your website testing!
 
@@ -42,4 +42,4 @@ If you have any additional questions or require further assistance during the te
 ## Submission
 Submit your test by creating PR to this repository
 <!-- replace your link here -->
-UML diagram: [link](https://github.com/bnkmutech/UnityMIDIChallenge)
+UML diagram: [link](https://github.com/notero-edtech/WebProgramerChallenge)
