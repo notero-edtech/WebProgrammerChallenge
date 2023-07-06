@@ -1,18 +1,17 @@
-# WebProgramerChallenge
-This is the website testing for a Web Developer position at Notero Team. The test duration is 5 days starting from the day you received it. You will be using Visual Studio Code with Node.js and TypeScript for development.
+# WebProgrammerChallenge
+This is the website testing for a Web Developer position at Notero Team. The test duration is 5 days starting from the day you receive it. You will be using Visual Studio Code with Node.js and TypeScript for development.
 
 Please read the following instructions carefully before you begin
-
 - Create a new website using Node.js and TypeScript as the main languages for development.
 - Design and build a main webpage (Homepage) that displays basic information such as the website name, subcontent, and accompanying images.
 - Implement additional features to the website using Node.js and TypeScript. Examples include fetching and displaying data from external sources (APIs) or user data management.
-- Include an installation and usage guide for the website in the README.md file.
+- Include the website's installation and usage guide in the README.md file.
 - Write clean, well-structured code that is easy to read and maintain.
 - Provide clear explanations and comments within the code to ensure understanding for others who may read or review the code.
-- Test and run the program to ensure correctness and performance of the website.
+- Test and run the program to ensure the correctness and performance of the website.
 - Once you have completed the testing, please submit the code and documentation to the Notero team through a Pull Request using the Forking Workflow.
 
-If you have any additional questions or require further assistance during the testing process, please do not hesitate to ask. Good luck with your website testing!
+Please do not hesitate to ask if you have any additional questions or require further assistance during the testing process. Good luck with your website testing!
 
 ## Tools & Stack
 - [Docker](https://www.docker.com/)
