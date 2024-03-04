@@ -42,3 +42,24 @@ Please do not hesitate to ask if you have any additional questions or require fu
 Submit your test by creating PR to this repository
 <!-- replace your link here -->
 UML diagram: [link](https://github.com/notero-edtech/WebProgramerChallenge)
+
+## Additional developments
+- Frontend about Homepage, Menupage, Loginpage, Registerpage
+- Fetch function to randomly generate user data for testing purposes instead of the book
+
+## Usage guide
+1.Install related modules
+- express
+- @types/express 
+- http 
+- @types/node
+- next @types/next
+- @mui/material
+- @mui/icons-material
+- axios
+
+2.run database
+- run db:up 
+
+3.run serve
+- run serve
